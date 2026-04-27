@@ -1,0 +1,12 @@
+{
+  "name": "prompt-master",
+  "version": "1.6.0",
+  "description": "Generates optimized prompts for any AI tool. Use when writing, fixing, improving, or adapting a prompt for LLM, Cursor, Midjourney, image AI, video AI, coding agents, or any other AI tool.",
+  "author": {
+    "name": "Nidhin Joseph Nelson"
+  },
+  "homepage": "https://github.com/nidhinjs/prompt-master",
+  "repository": "https://github.com/nidhinjs/prompt-master",
+  "license": "MIT",
+  "keywords": ["prompt-engineering", "prompts", "ai", "llm", "claude", "cursor", "midjourney", "copilot", "coding-agents"]
+}
